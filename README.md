@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 
-<h2 align="center">An Accountant training in Web Development 💻</h2>
+<h2 align="center">An Accountant learning about Web Development 💻</h2>
 
 - I am currently a student in the Women in Tech Bootcamp taught by Glovo and Keepcoding 🚀
 - I'm learning about HTML and CSS, Git, Javascript, Python, Node.js, Vue, Typescript and Agile Development 🤓
